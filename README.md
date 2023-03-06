@@ -1,4 +1,4 @@
-# Book_My_showBackend
+# Book_My_Show_Backend
 The Backend Project Using SpringBoot, Maven, JPA Hibernate(MySQL), SQL is a web-based application that allows users to book movie tickets at different theaters. The application is built using the Spring Boot framework and Maven for dependency management. JPA Hibernate is used for ORM mapping, while MySQL serves as the database.
 
 The application offers several functionalities to users, including the ability to search for movies and theaters by name or genre, book shows, book tickets, and view their booking history. Users can also book seats based on availability for their selected show.
@@ -7,7 +7,7 @@ The booking process involves selecting a movie and theater, choosing a showtime,
 
 The application also features a Swagger UI for API testing, allowing developers to easily test and debug the application's endpoints. Additionally, email configurations have been implemented to allow users to receive confirmation and reminder emails for their bookings.
 
-The application is designed to be scalable, robust, and secure using Spring Security to protect sensitive data from unauthorized access. It is a modern and comprehensive web application that provides users with a seamless and hassle-free way of booking movie tickets at their convenience.
+The application is designed to be scalable,It is a modern and comprehensive web application that provides users with a seamless and hassle-free way of booking movie tickets at their convenience.
 
 
 # Schema
@@ -33,3 +33,15 @@ Click here to cheak All Api End -> : [Swagger UI](http://localhost:8080/swagger-
 
 # Show Controller API
 ![ShowControllerAPI](https://user-images.githubusercontent.com/55325380/219963694-62a1536f-bb9e-4723-b551-2a387c246b9c.jpg)
+
+# MYSQL DataBases :
+![image](https://user-images.githubusercontent.com/74968170/223022311-74608203-c5a2-454b-9241-19fe8c0b3922.png)
+
+![image](https://user-images.githubusercontent.com/74968170/223021935-26ccb57a-b5a1-4e2d-b5fc-78115bb2b9ca.png)
+
+![image](https://user-images.githubusercontent.com/74968170/223022016-cf03407c-b447-4296-ae6d-de7e9c96e913.png)
+
+![image](https://user-images.githubusercontent.com/74968170/223022073-aeb7f9e5-6738-4341-b53e-cf423d11d80c.png)
+
+## After Booking Email SnapShot :
+![image](https://user-images.githubusercontent.com/74968170/223022869-234de197-00c1-47b4-9080-c43ab550039c.png)
