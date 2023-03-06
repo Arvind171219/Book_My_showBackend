@@ -7,6 +7,9 @@ And Can book Seats According to Availability.
 # Schema
 ![pdfresizer com-pdf-crop_page-0001](https://user-images.githubusercontent.com/55325380/219963429-39e090b6-2842-4ed1-a383-1a07314e7fd1.jpg)
 
+## Swagger 
+
+Cheaks All the Api end here : [Swagger UI](http://localhost:8080/swagger-ui/index.html#/ticket-controller/bookTicket)
 # User Controller API
 ![UserControllerAPI](https://user-images.githubusercontent.com/55325380/219962891-7b73478c-89ea-47f5-813d-d51ee74409bb.jpg)
 
