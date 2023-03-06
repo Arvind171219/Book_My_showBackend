@@ -43,5 +43,6 @@ Click here to cheak All Api End -> : [Swagger UI](http://localhost:8080/swagger-
 
 ![image](https://user-images.githubusercontent.com/74968170/223022073-aeb7f9e5-6738-4341-b53e-cf423d11d80c.png)
 
-## After Booking Email SnapShot :
+
+# After Booking Ticket Confirmation Through Email :
 ![image](https://user-images.githubusercontent.com/74968170/223022869-234de197-00c1-47b4-9080-c43ab550039c.png)
