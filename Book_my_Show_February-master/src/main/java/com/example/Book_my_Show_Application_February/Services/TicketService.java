@@ -113,7 +113,7 @@ public class TicketService {
 
         MimeMessage mimeMessage=javaMailSender.createMimeMessage();
         MimeMessageHelper mimeMessageHelper=new MimeMessageHelper(mimeMessage,true);
-        mimeMessageHelper.setFrom("backeendacciojob@gmail.com");
+        mimeMessageHelper.setFrom("ak1923161@gmail.com");
         mimeMessageHelper.setTo(userEntity.getEmail());
         mimeMessageHelper.setText(body);
         mimeMessageHelper.setSubject("Confirming your booked Ticket");
